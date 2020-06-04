@@ -61,7 +61,7 @@ Ramas: La unión de 2 nodos.
    </section>
 𝑉𝑡 = 𝑉1 +𝑉2 + 𝑉3 + ⋯  𝑉𝑛
 
-## **Descripción de los equipos y materiales**
+## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
 
 **Fuente de voltaje C.D.** Es de donde conseguir electricidad para el circuito
 <section>
@@ -107,7 +107,7 @@ Ramas: La unión de 2 nodos.
    </div>
    </section>
 
-## **Procedimiento**
+## **PROCEDIMIENTO**
 
 Arme el circuito que se muestra en la figura 1.1.
 </section>
@@ -189,7 +189,7 @@ En este punto se indicará todo lo adicional fruto de lo investigado que se haya
 
 
 
-## **Conclusiones**
+## **CONCLUSIONES**
 
 Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las resistencias,
 
@@ -216,7 +216,7 @@ El estudiante detalla cada una de las tareas y actividades que va a ejecutar dur
 
   
 
-# Bibliografía
+# **BIBLIOGRÁFICA**
 
 Cedeño, J. C., Gil, J. M., & Pérez, F. M. (8 de 08 de 2016). Leyes de Kirchhoff. _Leyes de Kirchhoff_. Mexico.
 
