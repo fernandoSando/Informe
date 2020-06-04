@@ -188,7 +188,7 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
       <div class="container mt-5 mb-5">
         <img src="img/12.PNG"
           alt="Protoboard con Amperimetros"
-          height="250"
+          height="240"
           style ="float-left ml-4"
         />           
    </div>
