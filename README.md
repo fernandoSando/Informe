@@ -165,7 +165,29 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 |**IR5(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
 |$$\sum I\:$$ |9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
-Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+5. DIAGRAMAS
+
+Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+* Diagramas de bloques.
+* Diagramas UML. (casos de uso-clase)
+* Diagramas eléctricos.
+* Diagramas esquemáticos.
+
+Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+6. LISTA DE COMPONENTES
+
+En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
+10. APORTACIONES
+
+En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
+
+
 
 ## **Conclusiones**
 
@@ -180,6 +202,17 @@ Para el análisis completo de un circuito eléctrico requiere conocer la corrien
 La regla de la corriente no es suficiente para efectuar el análisis completo de algún circuito, lo mejor es escribir tantas ecuaciones como sea posible para los nodos y luego aumentarlas con ecuaciones obtenidas a partir de los bucles; de lo cual resulta mejor escoger el bucle con el menor número de elementos de circuito lo cual hace que en lo posterior los procedimientos algebraicos se simplifiquen.
 
 Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptima mente.
+
+12. RECOMENDACIONES
+
+Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
+
+
+13. CRONOGRAMA
+
+El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un   “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama5.jpg)
 
   
 
@@ -196,61 +229,6 @@ _Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia li
 Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
 
 
-
-
-
-
-
-5. DIAGRAMAS
-
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
-
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
-
-
-6. LISTA DE COMPONENTES
-
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
-
-
-
-
-
-
-10. APORTACIONES
-
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
-
-
-11. CONCLUSIONES
-
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
-
-
-12. RECOMENDACIONES
-
-Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
-
-
-13. CRONOGRAMA
-
-El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un   “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama5.jpg)
-
-14. BIBLIOGRAFÍA
-
-Emplear normas APA para el informe e IEEE para el artículo
 
 15. ANEXOS
 
