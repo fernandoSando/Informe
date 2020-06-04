@@ -1,13 +1,143 @@
-# Informe
+
+      
+# INFORME
+
+## OBJETIVOS
 
 
-1. PLANTEAMIENTO DEL PROBLEMA
+Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes investigación.
 
-hay que hacer 
+**Objetivos específicos:** 
+ - Identificar en el circuito las mediciones de voltajes correspondiente
+   a las resistencias.
+ - Demostrar si se cumple la ley de Kirchhoff de voltajes y de   
+   corrientes en el circuito propuesto.   
+ - Comprobar los resultados y los datos necesarios  del  circuito 
+       propuesto, demostrando la ley de Kirchhoff.
+## MARCO TEÓRICO
 
-#Marco Teórico
+**_Gustav Robert Kirchhoff (1824 - 1887)_**
 
-**Gustav Robert Kirchhoff** 
+Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo que hoy conocemos como las Leyes que llevan su apellido, sin el muchas de los cas que se realizan en los circuitos eléctricos no podrían ser posibles de tener matemáticamente, su breve historia es: “Físico de origen alemán que realizó numerosas aportaciones a la ciencia, destacando las que hizo en espectroscopía, en la óptica, en los circuitos eléctricos y en la emisión de cuerpo negro, entre otras. Llegó a ser muy conocido por sus leyes en los circuitos eléctricos, ampliamente utilizadas en la  ingeniería  eléctrica las cuales se basan en dos principios fundamentales de la Física.” (Cedeño, Gil, & Pérez, 2016)
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   Nodos: Punto en el que se conectan dos o más elementos de un circuito.
+Lazos: Camino que da la corriente.
+Ramas: La unión de 2 nodos.
+
+**Primera Ley (Ley de Corrientes de Kirchhoff)**
+
+“La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Explica que la suma de todas las intensidades en un nodo especifico es igual a 0
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+
+𝐼𝑡 = 𝐼1 + 𝐼2 + 𝐼3 + ⋯  𝐼𝑛
+
+**Segunda Ley (Ley de voltajes)**
+ “En un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total encontrado en dicha espira.” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Esta ley está enfocada, a diferencia de la anterior, en los voltajes, aunque, lleva una premisa parecida; en los lazos la sumatoria de todos los voltajes va a ser igual a 0. 
+ <section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+𝑉𝑡 = 𝑉1 +𝑉2 + 𝑉3 + ⋯  𝑉𝑛
+
+## **Descripción de los equipos y materiales**
+
+**Fuente de voltaje C.D.** Es de donde conseguir electricidad para el circuito
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
+**Multímetro digital**. Nos ayudara para poder hacer las mediciones de la practica
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+**Resistores** de 1kΩ, 2.2kΩ, 1.8kΩ y 3.9kΩ. Los utilizaremos para crear el circuito que vamos a medir
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+**Protoboard.** Es la base en la cual se va a formar el circuito con los elementos de este.
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+## **Procedimiento**
+
+Arme el circuito que se muestra en la figura 1.1.
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla
+Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+***Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.***
+|VARIABLE      |VALOR CALCULADO                   |  VALOR MEDIDO                       |
+|----------------|-------------------------------|-------|
+|**VR1(V)**  |2.053[V] |2.05[V]|
+|**IR1(mA)** |2.053[mA]|2.05[mA]|
+|**VR2(V)**  |4.243[V] |4.25[V]|
+|**IR2(mA)** |1.084[mA]|1.09[mA]|
+|**VR3(V)**  |2.120[V] |2.12[V]|
+|**IR3(mA)** |0.964[mA]|0.965[mA]|
+|**VR4(V)**  |2.12[V]  |2.12[V]|
+|**IR4(mA)** |0.963[mA]|0.965[mA]|
+|**VR5(V)**  |3.695[V] |3.70[V]|
+|**IR5(mA)** |2.053[mA]|2.05[mA]|
+
 
 2. OBJETIVOS
 <div style="text-align: justify">  Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
