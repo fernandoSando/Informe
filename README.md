@@ -138,41 +138,96 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 |**VR5(V)**  |3.695[V] |3.70[V]|
 |**IR5(mA)** |2.053[mA]|2.05[mA]|
 
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla
+Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-2. OBJETIVOS
-<div style="text-align: justify">  Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
-
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados 
-</div>
-
-
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+***Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.***
+|VARIABLE    |VALOR CALCULADO|  VALOR MEDIDO|
+|------------|---------|--------|-------------|
+|**VR1(V)**  |2.053[V] |2.05[V]|
+|**IR1(mA)** |2.053[mA]|2.05[mA]|
+|**VR2(V)**  |4.243[V] |4.25[V]|
+|**IR2(mA)** |1.084[mA]|1.09[mA]|
+|**VR3(V)**  |2.120[V] |2.12[V]|
+|**IR3(mA)** |0.964[mA]|0.965[mA]|
+|**VR4(V)**  |2.12[V]  |2.12[V]|
+|**IR4(mA)** |0.963[mA]|0.965[mA]|
+|**VR5(V)**  |3.695[V] |3.70[V]|
+|**IR5(mA)** |2.053[mA]|2.05[mA]|
 
 
-4. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la siguiente tabla.
+***Tabla 1.2. Verificación de la LVK.***
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+|  |TRAYECTORIA 1|| TRAYECTORIA 2||TRAYECTORIA 3 ||
+|---------|---------|---------|---------|---------|---------|---------|
+|**VOLTAJE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|
+|**VT(V)**|10[V] |10[V]|10[V]|10[V]|10[V]|10[V]|
+|**VR1(V)**|2.065[V] |2.05[V]|2.067[V]|2.05[V]|-|-|
+|**VR2(V)**|- |-|4.243|4.25[V]|5.70[V]|4.25[V]|
+|**VR3(V)**|2.13[V] |2.12[V]|-|-|2.18[V]|2.12[V]|
+|**VR4(V)**|2.13[V]|2.12[V]|-|-|2.18[V]|2.12[V]|
+|**VR5(V)**|3.69[V] |3.70[V]|3.69[V]|3.70[V]|-|-|
+|$$\sum V\:$$|20.015[V] |20.09[V]|20[V]|20[V]|20.06[V]|18.49[V]|
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
+
+|  |NODO 1||NODO 2||NODO 3 ||NODO 4||NODO 5||
+|--|-------------|-|-------------|-|--------------|-|--------------|-|---|-|
+|**CORRIENTE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|**Calculado**|**Medido**|**Calculado**|**Medido**|
+|**RT(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|
+|**IR1(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|
+|**IR2(mA)**|1.087[mA] |1.09[mA]|1.087[mA]|1.098[mA]|-|-|-|-|-|-|
+|**IR3(mA)**|0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
+|**IR4(mA)**|0.967[mA]|0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
+|**IR5(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
+|$$\sum I\:$$|9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
+
+
+<![endif]-->
+
+Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+## **Conclusiones**
+
+Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las resistencias,
+
+su tipo y su clasificación de acuerdo al circuito montado que son en serio o paralelo.
+
+Deducimos según ley de Kirchhoff que expone que cuando en un circuito intervienen dos o más fuentes de corriente, además de ramificaciones estamos en presencia de una red eléctrica. Para que resolvamos una red eléctrica es necesario realizar un proceso en el cual calculamos las intensidades de corrientes que circulan por cada rama, conocidas las características de todos los elementos ubicados en la red.
+
+Para el análisis completo de un circuito eléctrico requiere conocer la corriente que fluye en cada una de sus ramas para lo cual usamos la ley de corriente y ley de voltaje de Kirchhoff y para establecer ecuaciones que relacionan las corrientes y necesitamos tantas ecuaciones linealmente independientes como ramas hay a fin de asegura que podemos obtener las soluciones del 4sistema.
+
+La regla de la corriente no es suficiente para efectuar el análisis completo de algún circuito, lo mejor es escribir tantas ecuaciones como sea posible para los nodos y luego aumentarlas con ecuaciones obtenidas a partir de los bucles; de lo cual resulta mejor escoger el bucle con el menor número de elementos de circuito lo cual hace que en lo posterior los procedimientos algebraicos se simplifiquen.
+
+Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptimamente.
+
+  
+
+# Bibliografía
+
+Cedeño, J. C., Gil, J. M., & Pérez, F. M. (8 de 08 de 2016). Leyes de Kirchhoff. _Leyes de Kirchhoff_. Mexico.
+
+_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Gustav_Robert_Kirchhoff.jpg
+
+_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:KCL_-_Kirchhoff's_circuit_laws.svg
+
+_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Kirshhoff-example.svg
+
+Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
+
+
+
+
+
+
+
+
+
+
+
+
 
 5. DIAGRAMAS
 
@@ -194,11 +249,6 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 6. LISTA DE COMPONENTES
 
 En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
-
-
-7. MAPA DE VARIABLES
-
-Este punto hace referencia a las variables que se emplean dentro de un programa, las cuales deben ser indicadas en la captura de una pantalla si son componentes visuales o especificados en una taba sin no son visibles en una interface. Se debe hacer referencia al tipo y la función que desempeñan en la aplicación.
 
 
 
