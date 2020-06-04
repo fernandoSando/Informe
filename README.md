@@ -21,7 +21,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo que hoy conocemos como las Leyes que llevan su apellido, sin el muchas de los cas que se realizan en los circuitos eléctricos no podrían ser posibles de tener matemáticamente, su breve historia es: “Físico de origen alemán que realizó numerosas aportaciones a la ciencia, destacando las que hizo en espectroscopía, en la óptica, en los circuitos eléctricos y en la emisión de cuerpo negro, entre otras. Llegó a ser muy conocido por sus leyes en los circuitos eléctricos, ampliamente utilizadas en la  ingeniería  eléctrica las cuales se basan en dos principios fundamentales de la Física.” (Cedeño, Gil, & Pérez, 2016)
 <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/Gustav_Robert_Kirchhoff.jpg"
           alt=""
           height="300"
           style ="float-left ml-4"
