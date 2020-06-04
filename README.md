@@ -5,12 +5,12 @@
 
 hay que hacer 
 
-####Marco Teórico####
+#####Marco Teórico
 
 **Gustav Robert Kirchhoff** 
 
 2. OBJETIVOS
-<div style="text-align: right">  Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
+<div style="text-align: justify;">  Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
 El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
 
 Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados 
