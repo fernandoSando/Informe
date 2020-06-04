@@ -192,15 +192,21 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
           style ="float-left ml-4"
         />           
    </div>
-   </section>
+   </section>                                  
+                                  
    
-6. LISTA DE COMPONENTES
+## **LISTA DE COMPONENTES**
 
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
-10. APORTACIONES
 
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
-
+ </section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
 
 
 ## **CONCLUSIONES**
