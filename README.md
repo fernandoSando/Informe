@@ -165,21 +165,35 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 |**IR5(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
 |$$\sum I\:$$ |9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
-5. DIAGRAMAS
-
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
-
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+## **DIAGRAMAS**
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
 6. LISTA DE COMPONENTES
 
 En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
