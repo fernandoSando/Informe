@@ -144,26 +144,26 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 |  |TRAYECTORIA 1|| TRAYECTORIA 2||TRAYECTORIA 3 ||
 |---------|---------|---------|---------|---------|---------|---------|
 |**VOLTAJE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|
-|**VT(V)**|10[V] |10[V]|10[V]|10[V]|10[V]|10[V]|
-|**VR1(V)**|2.065[V] |2.05[V]|2.067[V]|2.05[V]|-|-|
-|**VR2(V)**|- |-|4.243|4.25[V]|5.70[V]|4.25[V]|
-|**VR3(V)**|2.13[V] |2.12[V]|-|-|2.18[V]|2.12[V]|
-|**VR4(V)**|2.13[V]|2.12[V]|-|-|2.18[V]|2.12[V]|
-|**VR5(V)**|3.69[V] |3.70[V]|3.69[V]|3.70[V]|-|-|
-|$$\sum V\:$$|20.015[V] |20.09[V]|20[V]|20[V]|20.06[V]|18.49[V]|
+|**VT(V)**  |10[V]        |10[V]     |10[V]        |10[V]      |10[V]        |10[V]|
+|**VR1(V)** |2.065[V]     |2.05[V]   |2.067[V]     |2.05[V]    |-            |-|
+|**VR2(V)** |-            |-         |4.243[V]     |4.25[V]    |5.70[V]      |4.25[V]|
+|**VR3(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
+|**VR4(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
+|**VR5(V)** |3.69[V]      |3.70[V]   |3.69[V]      |3.70[V]    |-            |-|
+|$$\sum V\:$$|20.015[V]   |20.09[V]  |20[V]        |20[V]      |20.06[V]     |18.49[V]|
 
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
 
 |  |NODO 1||NODO 2||NODO 3 ||NODO 4||NODO 5||
 |--|-------------|-|-------------|-|--------------|-|--------------|-|---|-|
 |**CORRIENTE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|**Calculado**|**Medido**|**Calculado**|**Medido**|
-|**RT(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|
-|**IR1(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|
-|**IR2(mA)**|1.087[mA] |1.09[mA]|1.087[mA]|1.098[mA]|-|-|-|-|-|-|
-|**IR3(mA)**|0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
-|**IR4(mA)**|0.967[mA]|0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
-|**IR5(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
-|$$\sum I\:$$|9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
+|**RT(mA)**   |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|
+|**IR1(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|
+|**IR2(mA)**  |1.087[mA] |1.09[mA]|1.087[mA]|1.098[mA]|-|-|-|-|-|-|
+|**IR3(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
+|**IR4(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
+|**IR5(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
+|$$\sum I\:$$ |9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
