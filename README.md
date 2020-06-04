@@ -170,7 +170,7 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
       <div class="container mt-5 mb-5">
         <img src="img/10.PNG"
           alt="Protoboard con multiples resistencias"
-          height="201"
+          height="203"
           style ="float-left ml-4"
         />           
    </div>
