@@ -22,7 +22,7 @@ Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo 
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/Gustav_Robert_Kirchhoff.jpg"
-          alt=""
+          alt="Gustav Robert Kirchhoff (1824 - 1887)"
           height="300"
           style ="float-left ml-4"
         />           
@@ -38,7 +38,7 @@ Ramas: La unión de 2 nodos.
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/2.PNG"
-          alt=""
+          alt="Primera Ley (Ley de Corrientes de Kirchhoff)"
           height="300"
           style ="float-left ml-4"
         />           
@@ -53,7 +53,7 @@ Ramas: La unión de 2 nodos.
  <section>
       <div class="container mt-5 mb-5">
         <img src="img/3.PNG"
-          alt=""
+          alt="Segunda Ley (Ley de voltajes)"
           height="300"
           style ="float-left ml-4"
         />           
@@ -67,7 +67,7 @@ Ramas: La unión de 2 nodos.
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/4.PNG"
-          alt=""
+          alt="Fuente de voltaje C.D."
           height="100"
           style ="float-left ml-4"
         />           
@@ -78,7 +78,7 @@ Ramas: La unión de 2 nodos.
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/6.PNG"
-          alt=""
+          alt="Multímetro digital"
           height="100"
           style ="float-left ml-4"
         />           
@@ -89,7 +89,7 @@ Ramas: La unión de 2 nodos.
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/7.PNG"
-          alt=""
+          alt="Resistores"
           height="100"
           style ="float-left ml-4"
         />           
@@ -100,7 +100,7 @@ Ramas: La unión de 2 nodos.
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/8.PNG"
-          alt=""
+          alt="Protoboard"
           height="100"
           style ="float-left ml-4"
         />           
@@ -113,7 +113,7 @@ Arme el circuito que se muestra en la figura 1.1.
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/9.PNG"
-          alt=""
+          alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
         />           
@@ -168,8 +168,8 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 ## **DIAGRAMAS**
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
-          alt=""
+        <img src="img/10.PNG"
+          alt="Protoboard con multiples resistencias"
           height="200"
           style ="float-left ml-4"
         />           
@@ -177,8 +177,8 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
    </section>
    </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
-          alt=""
+        <img src="img/11.PNG"
+          alt="Protoboard con Voltimetros
           height="200"
           style ="float-left ml-4"
         />           
@@ -186,8 +186,8 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
    </section>
    </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
-          alt=""
+        <img src="img/12.PNG"
+          alt="Protoboard con Amperimetros"
           height="200"
           style ="float-left ml-4"
         />           
