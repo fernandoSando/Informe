@@ -37,7 +37,7 @@ Ramas: La unión de 2 nodos.
 “La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Explica que la suma de todas las intensidades en un nodo especifico es igual a 0
 <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/2.PNG"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -52,7 +52,7 @@ Ramas: La unión de 2 nodos.
  “En un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total encontrado en dicha espira.” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Esta ley está enfocada, a diferencia de la anterior, en los voltajes, aunque, lleva una premisa parecida; en los lazos la sumatoria de todos los voltajes va a ser igual a 0. 
  <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/3.PNG"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -66,7 +66,7 @@ Ramas: La unión de 2 nodos.
 **Fuente de voltaje C.D.** Es de donde conseguir electricidad para el circuito
 <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/4.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -77,7 +77,7 @@ Ramas: La unión de 2 nodos.
 **Multímetro digital**. Nos ayudara para poder hacer las mediciones de la practica
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/6.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -88,7 +88,7 @@ Ramas: La unión de 2 nodos.
 **Resistores** de 1kΩ, 2.2kΩ, 1.8kΩ y 3.9kΩ. Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/7.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -99,7 +99,7 @@ Ramas: La unión de 2 nodos.
 **Protoboard.** Es la base en la cual se va a formar el circuito con los elementos de este.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/8.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -112,7 +112,7 @@ Ramas: La unión de 2 nodos.
 Arme el circuito que se muestra en la figura 1.1.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/9.PNG"
           alt=""
           height="200"
           style ="float-left ml-4"
