@@ -138,25 +138,6 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 |**VR5(V)**  |3.695[V] |3.70[V]|
 |**IR5(mA)** |2.053[mA]|2.05[mA]|
 
-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla
-Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-
-***Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.***
-|VARIABLE    |VALOR CALCULADO|  VALOR MEDIDO|
-|------------|---------|--------|-------------|
-|**VR1(V)**  |2.053[V] |2.05[V]|
-|**IR1(mA)** |2.053[mA]|2.05[mA]|
-|**VR2(V)**  |4.243[V] |4.25[V]|
-|**IR2(mA)** |1.084[mA]|1.09[mA]|
-|**VR3(V)**  |2.120[V] |2.12[V]|
-|**IR3(mA)** |0.964[mA]|0.965[mA]|
-|**VR4(V)**  |2.12[V]  |2.12[V]|
-|**IR4(mA)** |0.963[mA]|0.965[mA]|
-|**VR5(V)**  |3.695[V] |3.70[V]|
-|**IR5(mA)** |2.053[mA]|2.05[mA]|
-
-
-
 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la siguiente tabla.
 ***Tabla 1.2. Verificación de la LVK.***
 
@@ -184,9 +165,6 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 |**IR5(mA)**|2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
 |$$\sum I\:$$|9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
-
-<![endif]-->
-
 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 ## **Conclusiones**
@@ -197,11 +175,11 @@ su tipo y su clasificación de acuerdo al circuito montado que son en serio o pa
 
 Deducimos según ley de Kirchhoff que expone que cuando en un circuito intervienen dos o más fuentes de corriente, además de ramificaciones estamos en presencia de una red eléctrica. Para que resolvamos una red eléctrica es necesario realizar un proceso en el cual calculamos las intensidades de corrientes que circulan por cada rama, conocidas las características de todos los elementos ubicados en la red.
 
-Para el análisis completo de un circuito eléctrico requiere conocer la corriente que fluye en cada una de sus ramas para lo cual usamos la ley de corriente y ley de voltaje de Kirchhoff y para establecer ecuaciones que relacionan las corrientes y necesitamos tantas ecuaciones linealmente independientes como ramas hay a fin de asegura que podemos obtener las soluciones del 4sistema.
+Para el análisis completo de un circuito eléctrico requiere conocer la corriente que fluye en cada una de sus ramas para lo cual usamos la ley de corriente y ley de voltaje de Kirchhoff y para establecer ecuaciones que relacionan las corrientes y necesitamos tantas ecuaciones lineal mente independientes como ramas hay a fin de asegura que podemos obtener las soluciones del sistema.
 
 La regla de la corriente no es suficiente para efectuar el análisis completo de algún circuito, lo mejor es escribir tantas ecuaciones como sea posible para los nodos y luego aumentarlas con ecuaciones obtenidas a partir de los bucles; de lo cual resulta mejor escoger el bucle con el menor número de elementos de circuito lo cual hace que en lo posterior los procedimientos algebraicos se simplifiquen.
 
-Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptimamente.
+Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptima mente.
 
   
 
@@ -216,12 +194,6 @@ _Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia li
 _Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Kirshhoff-example.svg
 
 Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
-
-
-
-
-
-
 
 
 
