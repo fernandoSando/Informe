@@ -233,9 +233,9 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
-          alt=""
-          height="200"
+        <img src="img/14.PNG"
+          alt="Cronograma de actividades del informe"
+          height="400"
           style ="float-left ml-4"
         />           
    </div>
