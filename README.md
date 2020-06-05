@@ -223,16 +223,24 @@ La regla de la corriente no es suficiente para efectuar el análisis completo de
 
 Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptima mente.
 
-12. RECOMENDACIONES
+## **RECOMENDACIONES**
 
 Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
 
 
-13. CRONOGRAMA
 
-El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un   “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
+## **CRONOGRAMA**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama5.jpg)
+ </section>
+      <div class="container mt-5 mb-5">
+        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+          alt=""
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+  
 
   
 
